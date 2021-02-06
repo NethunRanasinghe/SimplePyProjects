@@ -1,0 +1,5 @@
+I made a simple price increment calculator. 
+Mainly for my personal use as it was very useful for me when I started trading. 
+You can compile it with any method you like ( Ex:- pyinstaller). 
+I didn't added the compiled version because most of the stuff compiled with pyinstaller showed as a virus on some other computers that I tested it. 
+(Mainly on MacAfee installed computers, I have kaspersky installed and it works without an issue)
