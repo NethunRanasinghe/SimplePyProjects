@@ -1,2 +1,3 @@
 # SimplePyProjects
-In this repo ,You can add some simple python programs and scripts.
+In this repository,
+You can add some simple python programs and scripts.
