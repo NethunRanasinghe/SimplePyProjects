@@ -15,7 +15,7 @@ U1.insert(0, "Starting Value")
 U2 = Entry(fpage,width=200,borderwidth=5)
 U2.insert(0, "Final Value")
 
-U3 = Entry(fpage,width=200,borderwidth=5)
+U3 = Entry(fpage,width=201,borderwidth=5)
 U3.insert(0, "Answer")
 U3.configure(state='readonly')
 
